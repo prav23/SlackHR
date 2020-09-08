@@ -99,13 +99,6 @@ For each slack message or communication which falls under compliance category, w
 
 ![272_Arch_Dia_final 003](https://user-images.githubusercontent.com/60525827/81624029-fb1d9f00-93a9-11ea-9487-ce4e9cc0cbcd.jpeg)
 
-## Team
-
- - Pragati Shinde: ML Mode & Backend
- - Vatsa Patel: Design, Frontend & deployment.
- - Praveen Anguru: Slack Integration & Backend deploymeny.
- - Anthony Minaise: Technical writing & Report.
-
 ## Technology Stack
 
 * Client-side: React, Redux
